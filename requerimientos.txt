@@ -1,0 +1,15 @@
+-Paginal principal:
+    -Incluir proposito de la pagina
+    -carrusel de imagenes
+    -resumen de principales contenidos
+
+-Formulario:
+    -nombre
+    -Email
+    -Rut(debe ser validado a travez de modulo 11)
+    -Contraseña(validar 2 textos que deben coincidir)
+    -Comentarios
+
+-Pagina de contenidos(API):
+    -Deportes:https://www.thesportsdb.com/api/v1/json/1/all_sports.php
+    -Ligas de España: https://www.thesportsdb.com/api/v1/json/1/all_leagues.php
